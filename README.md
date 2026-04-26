@@ -1,4 +1,3 @@
- 👋 Hi, I’m abdelhameeed
+ 👋 Hi, I’m Abdelhameed Katby
 
-I excel in front-end development 🌐💻, creating visually appealing and user-friendly interfaces that enhance user experience. My expertise in JavaScript 🌟🎨 allows me to add flexible and advanced features to web pages. Additionally, I am proficient in Python 🐍🔍, utilizing it to build powerful and intelligent software solutions. With a deep understanding of both languages, I am capable of developing comprehensive and efficient software projects that meet diverse user needs. 🚀💡
-
+I'm a passionate developer with 7+ years of experience building web applications from front to back. I love combining software with hardware — from building full-stack platforms to working with Arduino and Raspberry Pi. Currently exploring Machine Learning and expanding my IoT projects.
